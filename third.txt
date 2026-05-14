@@ -1,0 +1,13 @@
+hi....!
+I'm trying to push multiple files on github through the vs-code terminal.
+First file i write .cpp
+Second is also .cpp
+Now, this third file is .txt
+
+commands in vs-code terminal
+git init
+git status
+git add .
+git commit -m "    "
+git remote add origin (repo-link)
+git push origin main
