@@ -3,8 +3,9 @@ I'm trying to push multiple files on github through the vs-code terminal.
 First file i write .cpp
 Second is also .cpp
 Now, this third file is .txt
+-> Changing in the existing file...
 
-commands in vs-code terminal
+-> Commands in vs-code terminal
 git init
 git status
 git add .
