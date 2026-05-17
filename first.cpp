@@ -7,4 +7,5 @@ int main(){
     cout<<"Today Date is 16-May-2k26";
     cout<<"Something Wrong...";
     cout<<"Unnecassary...";
+    cout<<"Good Night";
 }
